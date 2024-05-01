@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Welcome to Pandora!\n\n")
             Text("Here we will store your data in box")
             Text("that is safe from everyone that is not")
+            Text("")
         }
         .padding()
     }
