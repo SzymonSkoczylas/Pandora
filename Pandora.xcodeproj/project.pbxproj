@@ -111,6 +111,9 @@
 				Base,
 			);
 			mainGroup = 983512902BE29DDF00D5A644;
+			packageReferences = (
+				98553AE82BE2AF4E00A9FBB4 /* XCRemoteSwiftPackageReference "iOS-Proximity-SDK" */,
+			);
 			productRefGroup = 9835129A2BE29DDF00D5A644 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -346,6 +349,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		98553AE82BE2AF4E00A9FBB4 /* XCRemoteSwiftPackageReference "iOS-Proximity-SDK" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Estimote/iOS-Proximity-SDK";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 983512912BE29DDF00D5A644 /* Project object */;
 }
