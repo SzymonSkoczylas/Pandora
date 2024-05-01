@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		983512992BE29DDF00D5A644 /* Pandora.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pandora.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9835129C2BE29DDF00D5A644 /* PandoraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandoraApp.swift; sourceTree = "<group>"; };
-		9835129E2BE29DDF00D5A644 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9835129E2BE29DDF00D5A644 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 5; };
 		983512A02BE29DE200D5A644 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		983512A32BE29DE200D5A644 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

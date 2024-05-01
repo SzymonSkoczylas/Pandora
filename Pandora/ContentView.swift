@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Welcome to Pandora!\n\n")
-            Text("Here we will store your data in box")
+            Text("Here we will store your data in place")
             Text("that is safe from everyone that is not")
             Text("")
         }
